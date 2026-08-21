@@ -7,7 +7,7 @@ from Google's Patents Public Datasets on BigQuery.
 
 **Live demo:** https://patent-intelligence-dashboard.streamlit.app
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/dashboard-overview.png
 
 ## Why this project
 
