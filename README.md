@@ -7,7 +7,7 @@ from Google's Patents Public Datasets on BigQuery.
 
 **Live demo:** https://patent-intelligence-dashboard.streamlit.app
 
-![Dashboard Overview](screenshots/dashboard-overview.png
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ## Why this project
 
@@ -23,13 +23,13 @@ Patent Classification) code, not by keyword guesswork.
 1. **R&D Expiry & Generic-Entry Window** — which active patents are approaching
    expiry, broken down by year, domain, and country.
 
-   ![Expiry Window Analysis](screenshots/expiry-window.png)
+   ![Expiry Window Analysis](screenshots/expiry-generic-entry-window.png)
 
 2. **Patent Asset Strength & Risk** — a composite score (years of protection
    remaining, weighted by technical breadth) ranking companies by portfolio
    strength.
 
-   ![Asset Strength Ranking](screenshots/asset-strength.png)
+   ![Asset Strength Ranking](screenshots/asset-strength-risk.png)
 
 3. **Technology White-Space Analysis** — filing activity by CPC section over
    time, to help spot technology areas with comparatively low recent activity.
